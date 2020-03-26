@@ -1,1 +1,2 @@
 Voor mijn ontwerp heb ik gekozen voor een digitale klok met een space achtergrond die veranderd als het 20 uur is geweest. Om mijn klok nog een leuk effect mee te geven, komt de tekst 'time on earth' als het ware naar voren (#mainHeading.changesSize) en komt er een lila vlek achter de tijd te staan als je mouseover beweegt. Op de verschillende formaat van de schermen veranderd de tekst grootte en de tijd.
+https://loisdew.github.io/Clock/.
